@@ -1,6 +1,7 @@
 <?php
 
 /*
+ * Teste
  * OpenBoleto - Geração de boletos bancários em PHP
  *
  * LICENSE: The MIT License (MIT)
